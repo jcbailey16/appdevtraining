@@ -17,14 +17,14 @@
         <override_menu_roles>false</override_menu_roles>
         <query>active=true^assigned_toISEMPTY^EQ</query>
         <report/>
-        <roles/>
+        <roles>x_cdltd_loaner_req.admin,x_cdltd_loaner_req.loaner_request_user</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-01-13 17:07:16</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c37ecdb6ac9429107f44fe36824f35a1</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Open - Unassigned</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">e74dc9b6ac5429107f44fe36824f3575</sys_package>
@@ -32,7 +32,7 @@
         <sys_scope display_value="Loaner Request">e74dc9b6ac5429107f44fe36824f3575</sys_scope>
         <sys_update_name>sys_app_module_c37ecdb6ac9429107f44fe36824f35a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-01-23 19:24:02</sys_updated_on>
+        <sys_updated_on>2023-01-24 01:22:41</sys_updated_on>
         <timeline_page/>
         <title>Open - Unassigned</title>
         <uncancelable>false</uncancelable>
